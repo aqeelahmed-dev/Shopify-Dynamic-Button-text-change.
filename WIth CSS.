@@ -1,0 +1,13 @@
+	.shopify-payment-button__button--unbranded {
+		font-size: 0 !important;		
+	}
+	.shopify-payment-button__button--unbranded::before {
+		content: 'Your text here';
+		position: absolute;    
+		visibility: visible;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		font-size: 14px;
+		display: contents;
+	}
