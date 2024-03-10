@@ -8,7 +8,7 @@ Please follow these simple ways to do this...!
 
 Or you can do this with this way too.
 Simply go to your **theme.css** it can be **theme.scss**
-and put this ciode in the end of this file. { https://github.com/aqeelahmed-dev/Shopify-Dynamic-Button-text-change./blob/5c23c059a6b38729e8e86846ecb8c6629e9a868c/WIth%20CSS. }
+and put this ciode in the end of this file. WIth CSS.
 
 
 Here is how your Output will look like.
