@@ -1,0 +1,4 @@
+<button type="button" class="shopify-payment-button__button shopify-payment-button__button--unbranded" onclick="document.querySelector('[data-testid]').click();">Custom Text</button>
+<div style="display:none;">
+    {{ form | payment_button }}
+</div>
